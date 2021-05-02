@@ -15,5 +15,5 @@ Source Language C++
 // ________ (text.dat is in a Samsung Notes sdoc file)  
 //  
 // EXE USE: exename pathtext.dat pathout.txt  
-// &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (after you have extracted the text.dat from sdoc)  
+// &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(after you have extracted the text.dat from sdoc)  
 //  
