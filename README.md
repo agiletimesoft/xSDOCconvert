@@ -2,7 +2,7 @@
 Convert Samsung Notes SDOC to text.
 Source Language C++
 
-LICENSE: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+LICENSE: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
          Commercial Use: Commercial organisations must contact Author for Commercial License.
 
 // VERSION: v0.1 draft
