@@ -4,7 +4,7 @@ Source Language C++
   
 // VERSION: v0.1 draft  
 // LICENSE: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
-// ________ Commercial Use: Commercial organisations must contact Author for Commercial License.  
+// 			Commercial Use: Commercial organisations must contact Author for Commercial License.  
 // ________ See LICENSE.html for full license  
 // ________ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode  
 // TITLE__: xSDOCconvert  
