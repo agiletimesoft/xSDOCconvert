@@ -7,7 +7,7 @@ Source Language C++
 // ________ Commercial Use: Commercial organisations must contact Author for Commercial License.  
 // ________ See LICENSE.html for full license  
 // ________ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode  
-// TITLE..: xSDOCconvert  
+// TITLE__: xSDOCconvert  
 // AUTHOR : xAuthor  
 // SOURCE : https://github.com/agiletimesoft/xSDOCconvert  
 //  
